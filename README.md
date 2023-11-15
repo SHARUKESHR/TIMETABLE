@@ -24,12 +24,15 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```html
+```
+<html>
+<head>
 <title>SEC SLOT TIMETABLE</title>
-<BODY>
+</head>
+<body>
 	<IMG src="logo.png" 
 	height="100" width="600" align="center" border="2">
-</BODY>
+</body>
 
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
@@ -132,6 +135,7 @@ Execute the program using runserver command.
     <td align="center">Computer Architectue(CA)</td>
 </tr>
 </table>
+</html>
 ```
 
 ## OUTPUT
