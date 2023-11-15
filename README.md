@@ -32,8 +32,6 @@ Execute the program using runserver command.
 <body>
 	<IMG src="logo.png" 
 	height="100" width="600" align="center" border="2">
-</body>
-
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
 
@@ -135,6 +133,7 @@ Execute the program using runserver command.
     <td align="center">Computer Architectue(CA)</td>
 </tr>
 </table>
+</body>
 </html>
 ```
 
